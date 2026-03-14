@@ -1,12 +1,11 @@
-# Face-Recognition-mss-With-A-Lot-Of-People
- # Code discreaption
-Face Recognition System (Python)
+# Face Recognition System (Python)
 
-This project detects and identifies faces in real time from a webcam feed.
+## Project Description
+This project detects and identifies faces in real time using a webcam feed.  
 It can recognize multiple people simultaneously using image encoding.
 
-Technologies:
-Python
-OpenCV
-face_recognition library
-NumPy
+## Technologies
+- Python
+- OpenCV
+- face_recognition library
+- NumPy
